@@ -18,7 +18,13 @@
     margin-right: 10px;
 }
 
-.accordion-body p::first-letter {
-    font-size: 2rem;
+  @media screen and (max-width:576px) {
     
+
+    .slide img{
+        height: 300px;
+    }
+    .title{
+        font-size: 24px;
+    }
   }
