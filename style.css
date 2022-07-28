@@ -5,6 +5,12 @@
     background-color: #161616;
 }
 
+.slide img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
 .social-icon i{
     background-color: #242424;
     font-size: 18px;
