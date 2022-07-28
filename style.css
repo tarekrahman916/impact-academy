@@ -1,0 +1,24 @@
+.bg-color{
+    background-color: #F4FAFD;
+}
+
+.slide img{
+    filter: brightness(30%);
+}
+
+.footer-bg-color{
+    background-color: #161616;
+}
+
+.social-icon i{
+    background-color: #242424;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.accordion-body p::first-letter {
+    font-size: 2rem;
+    
+  }
